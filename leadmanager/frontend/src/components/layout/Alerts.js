@@ -27,10 +27,12 @@ export class Alerts extends Component {
       if (message.passwordNotMatch) alert.error(message.passwordNotMatch);
     }
   }
+
   render() {
     return <Fragment />;
   }
 }
+
 const mapStateToProps = state => ({
   error: state.errors,
   message: state.messages
