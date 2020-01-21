@@ -1,0 +1,5 @@
+{
+    "emmet.extensionsPath": "html",
+    "emmet.optimizeStylesheetParsing": false,
+    "emmet.showSuggestionsAsSnippets": true
+}
